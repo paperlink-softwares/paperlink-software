@@ -1,0 +1,19 @@
+paperlink software local credentials:
+
+username: admin
+password: JTjmy6JuY0DQz0v7XA
+
+
+
+//old code in header logo
+<?php echo esc_url( get_template_directory_uri() ); ?>/images/logo.png" 
+
+Site URL: <?=site_url();?>
+
+//old code in footer
+<ul class="quick-service">
+  <li><a href="privacy-policy.php">Privacy Policy</a></li>
+  <li><a href="refund-and-cancellation.php">Refund and Cancellation</a></li>
+  <li><a href="terms-conditions.php">Terms & Conditions</a></li>
+  <li><a href="contact.php">Contact Us</a></li>
+</ul>
